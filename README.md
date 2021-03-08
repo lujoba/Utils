@@ -21,7 +21,7 @@ A library collection of OpenCV wrappers for image processing
     ```
 3. Use as CLI, as the example below, or call the class in your project:
     ```
-   pipenv run python -m stack_images.py folder/of/input/images path/of/output/images --method ORB 
+   pipenv python -m stack_images.py folder/of/input/images path/of/output/images --method ORB 
     ```
 4. Cite me;
 5. Have fun.
