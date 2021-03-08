@@ -14,8 +14,8 @@ A library collection of OpenCV wrappers for image processing
 
 ## Set Up
 
-1. Check out the code
-2. Install requirements
+1. Check out the code;
+2. Install requirements:
     ```
     pipenv install
     ```
