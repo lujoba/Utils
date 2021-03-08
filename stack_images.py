@@ -8,7 +8,7 @@ from time import time
 class ImageStacker(object):
     """
     Args:
-        Folder path: Folder of image of size (H, W, C) to stack.
+        Folder path: Folder of images of size (H, W, C) to stack.
     Returns:
         Image: Single stacked image of size (H, W, C).
     Example:
