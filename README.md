@@ -1,4 +1,4 @@
-# Utils
+# Image Utils
 
 A library collection of OpenCV wrappers for image processing
 
