@@ -11,6 +11,7 @@ A library collection of OpenCV wrappers for image processing
 
 - [Band Pass Filter](https://github.com/lujoba/utils/blob/main/band_pass_filter.py): Script for enhancement of image's edges;
 - [Image Equalization](https://github.com/lujoba/Utils/blob/main/image_equalization.py): Correct the white balance and equalize the light of an image;
+- [Image Orientator](https://github.com/lujoba/Utils/blob/main/image_orientator.py): Give the same orientation for the input image;
 - [Stacking images](https://github.com/lujoba/utils/blob/main/stack_images.py): Image stacking script for pictures of the same subject. The resulting image will have a higher pixel density.
 
 ## Set Up
