@@ -61,5 +61,5 @@ if __name__ == '__main__':
 
     # Show image
     if args.show:
-        cv2.imshow(description, stacked_image)
+        cv2.imshow(description, output)
         cv2.waitKey(0)
